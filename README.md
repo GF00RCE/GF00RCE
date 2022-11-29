@@ -50,4 +50,4 @@
 # 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣 𝙎𝙩𝙧𝙚𝙖𝙠 🔥
 ![](https://github-readme-stats.vercel.app/api?username=GF00RCE&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GF00RCE&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GF00RCE&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
