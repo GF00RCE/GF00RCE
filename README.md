@@ -25,7 +25,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ryY7gHGn3D) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/p/CjALClQrRm_/?igshid=YmMyMTA2M2Y=)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCPiGy-MiSU8ckzSmev-t9Fg/featured) 
 
-  <p><a href="https://discord.gg/r62uCnXwS7">
+  <p><a href="https://discord.gg/yJ9FdAeQgT">
      <img alt="Discord" src="https://img.shields.io/discord/927648876628951070?color=061F5a&label=Discord&logo=Discord&logoColor=FFF000&style=for-the-badge">
  </a></p>
 
